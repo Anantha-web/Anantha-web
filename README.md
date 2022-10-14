@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-      I am **Anantha Lakshmi Yadavalli**, I'm an undergraduate student at International Institute of Information Technology, Hyderabad. I love working on projects which tackle real world problems. Some technologies I enjoy working with include C, CPP, Python, CSS, HTML and etc.
+  I am **Anantha Lakshmi Yadavalli**, I'm an undergraduate student at International Institute of Information Technology, Hyderabad. I love working on projects which tackle real world problems. Some technologies I enjoy working with include C, CPP, Python, CSS, HTML and etc.
 
 * **I’m currently working on:** Indicwiki project.
 *  **I’m currently learning:** Data Structures and algorithms fundamentals to improve competitive programming skills.
