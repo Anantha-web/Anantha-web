@@ -22,8 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Boot" alt="Boot" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Boot" alt="Boot" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Boot" alt="Boot" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Boot" alt="Boot" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Boot" alt="Boot" width="40" height="40"/>&nbsp;</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Boot" alt="Boot" width="40" height="40"/>&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anantha-web&show_icons=true&locale=en&layout=compact" alt="Anantha-web" /></p>
 
 ## GitHub Streak
