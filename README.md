@@ -30,5 +30,5 @@
 
 
 #Github Trophy
-#[![trophy](https://github-profile-trophy.vercel.app/?username=Anantha-web&theme=onedark)](https://github.com/Anantha-web)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anantha-web&theme=onedark)](https://github.com/Anantha-web)
 
