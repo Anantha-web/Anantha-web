@@ -10,7 +10,7 @@
 
 ### FIND ME AROUND THE WEB
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anantha-lakshmi-yadavalli-5aa7a2212/)
-* [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://)
+* [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://leetcode.com/lakshmiyadavalli/)
 * [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ananthalakshmi.yadavalli)
 
 
