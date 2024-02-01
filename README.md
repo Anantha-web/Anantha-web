@@ -5,6 +5,7 @@
 * **I’m currently working on:** Indicwiki and Code-Mixed Translation.
 *  **How to reach me:** Drop a mail at yadavalli.lakshmi@students.iiit.ac.in
 *  **Pronouns:** she/her
+*  **Coding Platform:** https://leetcode.com/lakshmiyadavalli/
 *  **Fun fact:**  *Human beings can use only a small fraction of Earth's water*. In school, we were taught that most (specifically, 71 percent) of the planet's surface is covered in water. While that's true, humans can use only 0.007 percent of that water, according to National Geographic.
 
 ### FIND ME AROUND THE WEB
