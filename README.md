@@ -27,6 +27,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anantha-web&theme=radical&border_radius=5.5)](https://github.com/Anantha-web)
 
 
-## Github Trophy 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anantha-web&theme=onedark)](https://github.com/Anantha-web)
-
