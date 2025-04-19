@@ -7,7 +7,7 @@
 *  **Fun fact:**  *Human beings can use only a small fraction of Earth's water*. In school, we were taught that most (specifically, 71 percent) of the planet's surface is covered in water. While that's true, humans can use only 0.007 percent of that water, according to National Geographic.
 
 ### FIND ME AROUND THE WEB
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anantha-lakshmi-yadavalli-5aa7a2212/)
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anantha-yadavalli/)
 * [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://leetcode.com/lakshmiyadavalli/)
 * [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ananthalakshmi.yadavalli)
 
